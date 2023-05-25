@@ -7,6 +7,10 @@ target/
 
 src/main/resources
 src/test/
+mvnw
+mvnw.cmd
+maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.properties
 
 
 ### STS ###
